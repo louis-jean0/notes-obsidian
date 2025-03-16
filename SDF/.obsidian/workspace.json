@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "c1f89c1a32c8bf6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "efbc3f052a5ce854",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e689fb86cc9746dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Raymarching  & SDF.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Raymarching  & SDF"
+            }
+          },
+          {
+            "id": "0a71e442fb001365",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "image_raymarching.png"
+              },
+              "icon": "lucide-image",
+              "title": "image_raymarching"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e7f7411cb33f81d",
+    "type": "split",
+    "children": [
+      {
+        "id": "37893c1138379386",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88a2197d3a9da992",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a76b690825612c6d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b4c9d4732e809369",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6aec031863950d57",
+    "type": "split",
+    "children": [
+      {
+        "id": "621f2f5ee3a4528f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f677f44cc58a233c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Signed Distance Functions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Signed Distance Functions"
+            }
+          },
+          {
+            "id": "6b4cb45d186e395f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Signed Distance Functions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Signed Distance Functions"
+            }
+          },
+          {
+            "id": "bd65f32c8abd3d1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1daae16b30c0adec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Signed Distance Functions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Signed Distance Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0a71e442fb001365",
+  "lastOpenFiles": [
+    "Raymarching  & SDF.md",
+    "OpenGL.md",
+    "image_raymarching.png",
+    "Pasted image 20250213074828.png"
+  ]
+}
