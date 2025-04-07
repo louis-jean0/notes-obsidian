@@ -13,6 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Stage/Recherche/Snake/Active contours - Limit detection.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active contours - Limit detection"
+            }
+          },
+          {
+            "id": "ad01973f4007df2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage/Recherche/Snake/Active contours - Limit detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active contours - Limit detection"
+            }
+          },
+          {
+            "id": "38b54abb434e825c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stage/Travail UE/Triplanar mapping.md",
                 "file": "ImGui/ImGui.md",
                 "mode": "preview",
                 "source": false
@@ -74,11 +103,13 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Triplanar mapping"
               "title": "Réunion 31 mars"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 4,
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,8 +253,24 @@
       "command-palette:Open command palette": false
     }
   },
+  "active": "e547fef8e53ef6db",
   "active": "2466aef13f2a7121",
   "lastOpenFiles": [
+    "Stage/Réunions/Réunion 17 mars.md",
+    "Stage/Réunions",
+    "Pasted image 20250405164607.png",
+    "Pasted image 20250405162459.png",
+    "Pasted image 20250405162300.png",
+    "Pasted image 20250405155011.png",
+    "Stage/Recherche/Snake/Active contours - Limit detection.md",
+    "Stage/Travail UE/Triplanar mapping.md",
+    "Pasted image 20250405155739.png",
+    "Pasted image 20250405155701.png",
+    "Pasted image 20250405155218.png",
+    "Stage/Travail UE",
+    "OpenGL/OpenGL.md",
+    "SDF/Raymarching  & SDF.md",
+    "SDF/image_raymarching.png",
     "Stage/Réunions/Réunion 17 mars.md",
     "Stage/Réunions/Réunion 24 mars.md",
     "Stage/Réunions/Réunion 31 mars.md",
@@ -231,6 +278,7 @@
     "Stage/Recherche/Flood fill/Flood fill.md",
     "Stage/Recherche/Flood fill",
     "ImGui/ImGui.md",
+    "ImGui"
     "GDB",
     "Stage/Stage_simulation_d_ecosystemes.pdf",
     "ImGui",
