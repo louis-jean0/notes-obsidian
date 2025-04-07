@@ -1,4 +1,4 @@
-Quick Dear ImGui C++ Cheatsheet
+**Quick** Dear ImGui C++ Cheatsheet
 # ImGui Cheatsheet
 
 ## Setup and Frame Lifecycle

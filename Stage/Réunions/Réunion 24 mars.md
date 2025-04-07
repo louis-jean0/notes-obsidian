@@ -1,0 +1,1 @@
+Snake à fine tuner, explorer le previous shape model pour le snake (avec un dictionnaire de formes pré définies ou bien une forme calculée sur le moment)
