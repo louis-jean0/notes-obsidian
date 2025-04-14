@@ -1,129 +1,41 @@
 {
   "main": {
-    "id": "710305ced26cd5c4",
+    "id": "a1fdad38ff93a8b2",
     "type": "split",
     "children": [
       {
-        "id": "c88131c9326ccf1b",
+        "id": "5372efe5baf5ac4c",
         "type": "tabs",
         "children": [
           {
-            "id": "0af830259008c06e",
+            "id": "ef95020e45b8a586",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stage/Recherche/Snake/Active contours - Limit detection.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Active contours - Limit detection"
-            }
-          },
-          {
-            "id": "ad01973f4007df2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/Recherche/Snake/Active contours - Limit detection.md",
+                "file": "Stage/Réunions/Réunion 14 avril.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Active contours - Limit detection"
-            }
-          },
-          {
-            "id": "38b54abb434e825c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/Travail UE/Triplanar mapping.md",
-                "file": "ImGui/ImGui.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ImGui"
-            }
-          },
-          {
-            "id": "ba9909cde16e75b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDB/GDB.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GDB"
-            }
-          },
-          {
-            "id": "0b811979e1a82f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDB/GDB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GDB"
-            }
-          },
-          {
-            "id": "e06d826dbc8d5dc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/Réunions/Réunion 31 mars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Réunion 31 mars"
-            }
-          },
-          {
-            "id": "2466aef13f2a7121",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stage/Réunions/Réunion 31 mars.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Triplanar mapping"
-              "title": "Réunion 31 mars"
+              "title": "Réunion 14 avril"
             }
           }
-        ],
-        "currentTab": 4,
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2528d9ce23bf9068",
+    "id": "23c8c491c72a5bf6",
     "type": "split",
     "children": [
       {
-        "id": "f7bc07701786e80c",
+        "id": "b23970474c6fc2bf",
         "type": "tabs",
         "children": [
           {
-            "id": "3da34d3ac2625409",
+            "id": "55bd96cb6a91faa4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -136,7 +48,7 @@
             }
           },
           {
-            "id": "3245f6e1448be653",
+            "id": "91ee70e06dcc33f6",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -153,7 +65,7 @@
             }
           },
           {
-            "id": "f3dc6c486af316e8",
+            "id": "52df04848562e212",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -169,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "4cd518146be7b518",
+    "id": "9bd39020a35c3207",
     "type": "split",
     "children": [
       {
-        "id": "32ff22dde0d4f5b3",
+        "id": "068e23b0bcecc0fb",
         "type": "tabs",
         "children": [
           {
-            "id": "32143d9dd8e7b02b",
+            "id": "646b6fb854de9ade",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Stage/Réunions/Réunion 7 avril.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Réunion 7 avril"
             }
           },
           {
-            "id": "57a1eb2491d4f7e1",
+            "id": "92501a2cc8eabe19",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Stage/Réunions/Réunion 7 avril.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Réunion 7 avril"
             }
           },
           {
-            "id": "1b46de0dbf018bf1",
+            "id": "c6babc097514ee1b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -223,17 +137,18 @@
             }
           },
           {
-            "id": "8454c380839ae00c",
+            "id": "74c5a10cdd385e6d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Stage/Réunions/Réunion 7 avril.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Réunion 7 avril"
             }
           }
         ]
@@ -253,35 +168,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e547fef8e53ef6db",
-  "active": "2466aef13f2a7121",
+  "active": "ef95020e45b8a586",
   "lastOpenFiles": [
-    "Stage/Réunions/Réunion 17 mars.md",
-    "Stage/Réunions",
-    "Pasted image 20250405164607.png",
-    "Pasted image 20250405162459.png",
-    "Pasted image 20250405162300.png",
-    "Pasted image 20250405155011.png",
-    "Stage/Recherche/Snake/Active contours - Limit detection.md",
-    "Stage/Travail UE/Triplanar mapping.md",
-    "Pasted image 20250405155739.png",
-    "Pasted image 20250405155701.png",
-    "Pasted image 20250405155218.png",
-    "Stage/Travail UE",
-    "OpenGL/OpenGL.md",
-    "SDF/Raymarching  & SDF.md",
-    "SDF/image_raymarching.png",
-    "Stage/Réunions/Réunion 17 mars.md",
-    "Stage/Réunions/Réunion 24 mars.md",
+    "Stage/Travail UE/Améliorations possibles.md",
+    "Stage/Réunions/Réunion 7 avril.md",
+    "Stage/Recherche/Snake/Papiers/snake_gvf.pdf",
+    "Stage/Recherche/Objets environnementaux/Papiers/Environmental objects.pdf",
     "Stage/Réunions/Réunion 31 mars.md",
-    "GDB/GDB.md",
+    "Stage/Réunions/Réunion 24 mars.md",
+    "Stage/Réunions/Réunion 17 mars.md",
+    "Stage/Réunions/Réunion 14 avril.md",
+    "Stage/Recherche/Objets environnementaux/Papiers/2016-environmental-objects.pdf",
+    "Stage/Recherche/Objets environnementaux/Papiers/JFIG2024_paper_15.pdf",
+    "Stage/Recherche/Objets environnementaux/Papiers/Thesis-65-92.pdf",
+    "Stage/Recherche/Kelvinlets/Kelvinlets.md",
+    "Stage/Recherche/Kelvinlets/kelvinlets_paper.pdf",
+    "Stage/Recherche/Snake/Active contours - Limit detection.md",
+    "Stage/Recherche/Kelvinlets",
+    "Stage/Travail UE/Triplanar mapping.md",
+    "Stage/Recherche/Snake/Papiers",
+    "Stage/Recherche/Objets environnementaux/Génération procédurale d’environnements sous-marins.md",
     "Stage/Recherche/Flood fill/Flood fill.md",
-    "Stage/Recherche/Flood fill",
-    "ImGui/ImGui.md",
-    "ImGui"
-    "GDB",
-    "Stage/Stage_simulation_d_ecosystemes.pdf",
-    "ImGui",
-    "Stage/Réunions"
+    "Stage/Assets/Pasted image 20250405155011.png",
+    "Stage/Stage_simulation_d_ecosystemes.pdf"
   ]
 }
